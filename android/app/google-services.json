@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "613091459611",
+    "project_id": "basher-f1963",
+    "storage_bucket": "basher-f1963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613091459611:android:ec13a033d99d4a6d20eebe",
+        "android_client_info": {
+          "package_name": "com.pandascode.basher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613091459611-mjoro9rnp5pcs1u568kmtfpjf4041lok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pandascode.basher",
+            "certificate_hash": "165f6b7c9ed9119791e0470de4cf68a86f135621"
+          }
+        },
+        {
+          "client_id": "613091459611-sk3tha56q7oikth8e5j579489ma8sgcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYUZ_rO9M9z0C4HkvDuPFVVCuMVtZMNxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613091459611-sk3tha56q7oikth8e5j579489ma8sgcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
